@@ -1,0 +1,7 @@
+{
+"title" : "Hello Echo",
+"cmd" : "echo-hello",
+"author" : "j-hogi-hwang",
+"description" : "this script speaks 'hello'",
+"sdbneeded" : "false"
+}
